@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class StoryInventory {
+public class StoreInventory {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
